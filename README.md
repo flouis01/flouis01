@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flouis01
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning C#
